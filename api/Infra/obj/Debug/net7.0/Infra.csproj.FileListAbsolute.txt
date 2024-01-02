@@ -1,0 +1,11 @@
+C:\Repos\Projeto-Financeiro\api\Infra\bin\Debug\net7.0\Infra.deps.json
+C:\Repos\Projeto-Financeiro\api\Infra\bin\Debug\net7.0\Infra.dll
+C:\Repos\Projeto-Financeiro\api\Infra\bin\Debug\net7.0\Infra.pdb
+C:\Repos\Projeto-Financeiro\api\Infra\obj\Debug\net7.0\Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\Projeto-Financeiro\api\Infra\obj\Debug\net7.0\Infra.AssemblyInfoInputs.cache
+C:\Repos\Projeto-Financeiro\api\Infra\obj\Debug\net7.0\Infra.AssemblyInfo.cs
+C:\Repos\Projeto-Financeiro\api\Infra\obj\Debug\net7.0\Infra.csproj.CoreCompileInputs.cache
+C:\Repos\Projeto-Financeiro\api\Infra\obj\Debug\net7.0\Infra.dll
+C:\Repos\Projeto-Financeiro\api\Infra\obj\Debug\net7.0\refint\Infra.dll
+C:\Repos\Projeto-Financeiro\api\Infra\obj\Debug\net7.0\Infra.pdb
+C:\Repos\Projeto-Financeiro\api\Infra\obj\Debug\net7.0\ref\Infra.dll
