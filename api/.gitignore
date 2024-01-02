@@ -1,0 +1,23 @@
+# Arquivos temporários
+[Tt]emp/
+[Oo]bj/
+
+# Arquivos de compilação
+*.exe
+*.dll
+*.pdb
+
+# Logs e arquivos de depuração
+*.log
+*.config
+
+# Arquivos específicos do Visual Studio
+.vs/
+/.vscode/
+*.suo
+*.user
+*.sln.docstates
+
+# Pacotes NuGet
+*.nupkg
+*.paket.restore.log
